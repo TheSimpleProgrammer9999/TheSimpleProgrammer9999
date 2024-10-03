@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheSimpleProgrammer9999
-- 👀 I’m interested in Python, Math, memes, C and C++
+- 👀 I’m interested in Python, Math, memes, boolean algebra, C, and C++
 - 🌱 I’m currently learning C++ and C
 - 💞️ I’m looking to collaborate on ???
 - 📫 How to reach me ???
