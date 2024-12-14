@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ???
 - 📫 How to reach me ???
 - 😄 Pronouns: they
-- ⚡ Fun fact: I started programming in 2023(when I was 8 years old)
+- ⚡ Fun fact: I started programming in 2023(when I was 7 years old)
 
 <!---
 TheSimpleProgrammer9999/TheSimpleProgrammer9999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
