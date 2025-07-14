@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++ and C
 - 💞️ I’m looking to collaborate on ???
 - 📫 How to reach me ???
-- 😄 Pronouns: they
+- 😄 Pronouns: ???
 - ⚡ Fun fact: I started programming in 2023(when I was 7 years old)
 
 <!---
